@@ -6,4 +6,4 @@ The two data sets used for this project are MNIST handwritten digits data set, a
 
 Functions that are needed for the neural network is created using only primitive Matlab commands as `phi_ReLU.m`, `phi_Softmax.m`, `jac_ReLU.m`, and `jac_Softmax.m`. The deep learning network with training and testing data is developed as `deepNetwork.m`.
 
-Comparing the digit images test accuracy (95.75%) with fashion images test accuracy (85.45%), using data with maxit=300,000 and training n=60,000, we can see that the digit images have achieved a higher accuracy than fashion images.
+Comparing the digit images test accuracy (95.75%) with fashion images test accuracy (85.45%), using data with maxit=300,000 and training n=60,000, we can see that the digit images have achieved a higher accuracy than fashion images. See `deep-learning-result.pdf` for output details. 
